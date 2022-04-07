@@ -2,6 +2,9 @@
 MVMAETools
 
 ## Part of [CODMVM](https://codmvm.com/)
+### [Download](https://github.com/gmzorz/MVMAETools/releases/)
+
+
 A script panel for importing 3D camera data exported from IW3MVM, featuring HSV conversion options.
 
 - Installation:
