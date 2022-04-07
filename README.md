@@ -2,6 +2,7 @@
 MVMAETools
 
 ## Part of [CODMVM](https://codmvm.com/)
+A script panel for importing 3D camera data exported from IW3MVM, featuring HSV conversion options.
 
 - Installation:
    Navigate to your After Effects directory (eg C:\Program Files\Adobe\Adobe After Effects xxx)
